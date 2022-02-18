@@ -6,7 +6,7 @@
 
 .container{
     width: 1200px;
-    margin: auto;
+    margin: 20px auto;
 }
 
 #site_header{
@@ -45,8 +45,13 @@ aside{
 }
 
 .main_part{
-    width: 58%;
+    width: 58.3%;
     height: 400px;
     margin: 0 10px;
     background-color: blueviolet;
+}
+
+#site_footer{
+    height: 4rem;
+    background-color: brown;
 }
